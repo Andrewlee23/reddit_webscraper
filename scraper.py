@@ -1,8 +1,8 @@
 import praw
 import pandas as pd
  
-reddit_read_only = praw.Reddit(client_id="5Aw8MgAsTghDiquR2eqBqw",       
-                               client_secret="LA6U3KB-kfeDJ1F8MExnzIn4PpJ-ZA",     
+reddit_read_only = praw.Reddit(client_id="client id",       
+                               client_secret="secret key",     
                                user_agent="SubScraper")      
  
  
