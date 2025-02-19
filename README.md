@@ -1,2 +1,2 @@
 # reddit_webscraper
-Personal project involving webscraping reddit forums 
+A python based webscraper that will use reddit APIs to scrape forums based on different parameters
